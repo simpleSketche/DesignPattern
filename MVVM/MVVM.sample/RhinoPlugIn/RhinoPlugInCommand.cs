@@ -26,7 +26,7 @@ namespace RhinoPlugIn
         ///<returns>The command name as it appears on the Rhino command line.</returns>
         public override string EnglishName
         {
-            get { return "RhinoPlugInCommand"; }
+            get { return "OurCommand"; }
         }
 
         protected override Result RunCommand(RhinoDoc doc, RunMode mode)

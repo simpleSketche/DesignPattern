@@ -1,0 +1,6 @@
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\bin\RhinoPlugIn.dll
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\bin\RhinoPlugIn.pdb
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\obj\Debug\RhinoPlugIn.csproj.AssemblyReference.cache
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\obj\Debug\RhinoPlugIn.csproj.CoreCompileInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\obj\Debug\RhinoPlugIn.dll
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\RhinoPlugIn\obj\Debug\RhinoPlugIn.pdb
