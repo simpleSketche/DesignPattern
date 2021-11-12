@@ -1,0 +1,13 @@
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\bin\Debug\netcoreapp3.1\Sample.ViewModels.deps.json
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\bin\Debug\netcoreapp3.1\Sample.ViewModels.dll
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\bin\Debug\netcoreapp3.1\Sample.ViewModels.pdb
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.csproj.AssemblyReference.cache
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.AssemblyInfoInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.AssemblyInfo.cs
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.dll
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.pdb
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\bin\Debug\netcoreapp3.1\Sample.MVVM.dll
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\bin\Debug\netcoreapp3.1\Sample.MVVM.pdb
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.csproj.CopyComplete
+C:\Users\yyang\Documents\github\DesignPattern\MVVM\MVVM.sample\Sample.ViewModels\obj\Debug\netcoreapp3.1\Sample.ViewModels.csproj.Fody.CopyLocal.cache

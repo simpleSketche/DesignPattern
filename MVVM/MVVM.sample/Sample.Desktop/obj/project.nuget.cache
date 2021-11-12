@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFssRfP5bYPMn+pmn3WD+Wsv/OukIxsQjKe1xUJvcEVW1Rmu19AEyjk2/od7vthGo0YN6q7Ub1HxxZ654Ci0wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\Sample.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yyang\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\Sample.Desktop.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\Sample.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\Sample.Desktop.csproj",
+        "projectName": "Sample.Desktop",
+        "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\Sample.Desktop.csproj",
+        "packagesPath": "C:\\Users\\yyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.Desktop\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\Sample.UI.csproj": {
+                "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\Sample.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\Sample.MVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\Sample.MVVM.csproj",
+        "projectName": "Sample.MVVM",
+        "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\Sample.MVVM.csproj",
+        "packagesPath": "C:\\Users\\yyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\Sample.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\Sample.UI.csproj",
+        "projectName": "Sample.UI",
+        "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\Sample.UI.csproj",
+        "packagesPath": "C:\\Users\\yyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj",
+        "projectName": "Sample.ViewModels",
+        "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\yyang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\Sample.MVVM.csproj": {
+                "projectPath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.MVVM\\Sample.MVVM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

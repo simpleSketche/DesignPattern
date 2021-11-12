@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+RJ1qpsK6v0LKpk2hkL75SV1ZyAzpnPkxP1w/qScA7BS23rCS09X7AgQaQVthaTm+b5sgeJYR1iZrq+vdVaxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yyang\\Documents\\github\\DesignPattern\\MVVM\\MVVM.sample\\Sample.ViewModels\\Sample.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yyang\\.nuget\\packages\\fody\\6.6.0\\fody.6.6.0.nupkg.sha512",
+    "C:\\Users\\yyang\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
