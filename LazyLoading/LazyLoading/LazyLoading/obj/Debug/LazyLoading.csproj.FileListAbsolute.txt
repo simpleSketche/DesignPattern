@@ -1,0 +1,7 @@
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe.config
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\bin\Debug\LazyLoading.exe
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\bin\Debug\LazyLoading.pdb
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\obj\Debug\LazyLoading.csproj.AssemblyReference.cache
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\obj\Debug\LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\obj\Debug\LazyLoading.exe
+C:\Users\yyang\Documents\github\DesignPattern\LazyLoading\LazyLoading\LazyLoading\obj\Debug\LazyLoading.pdb
