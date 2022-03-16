@@ -1,0 +1,23 @@
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.exe
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.deps.json
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.runtimeconfig.json
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.runtimeconfig.dev.json
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.dll
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\smooth scrolling.pdb
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.csproj.AssemblyReference.cache
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling_MarkupCompile.cache
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling_MarkupCompile.lref
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.g.resources
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.AssemblyInfoInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.AssemblyInfo.cs
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.csproj.CoreCompileInputs.cache
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.csproj.CopyComplete
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.dll
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.pdb
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\smooth scrolling.genruntimeconfig.cache
+C:\Users\yyang\Documents\github\DesignPattern\Smooth Scrolling\smooth scrolling\smooth scrolling\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs

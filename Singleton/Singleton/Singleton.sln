@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{379834E0-5B64-49DD-A15B-33BE3B98F253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerSingleton", "BlazorServerSingleton\BlazorServerSingleton.csproj", "{32FC6912-C886-46F3-893B-A02F101D55EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379834E0-5B64-49DD-A15B-33BE3B98F253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379834E0-5B64-49DD-A15B-33BE3B98F253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379834E0-5B64-49DD-A15B-33BE3B98F253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379834E0-5B64-49DD-A15B-33BE3B98F253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FC6912-C886-46F3-893B-A02F101D55EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FC6912-C886-46F3-893B-A02F101D55EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FC6912-C886-46F3-893B-A02F101D55EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FC6912-C886-46F3-893B-A02F101D55EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA65FA3-53C1-4115-A6B0-D5724B33EC55}
+	EndGlobalSection
+EndGlobal
